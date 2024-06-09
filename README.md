@@ -31,12 +31,12 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/UMARSYED22/Profiles.git
+    git clone https://github.com/UMARSYED22/User Management App.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd Profiles
+    cd User Management App
     ```
 
 3. Install the dependencies:
@@ -57,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
 ## Project Structure
 
 ```plaintext
-Profiles/
+User Management App/
 ├── models/
 │   └── user.js          # Mongoose schema and model for User
 ├── public/              # Static files (CSS, JS, images)
